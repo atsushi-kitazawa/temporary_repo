@@ -1,9 +1,4 @@
 aaa
 bbb
-<<<<<<< HEAD
-cccdddeee
+cccdddEEE
 fff
-=======
-cccddd
-eee
->>>>>>> master
